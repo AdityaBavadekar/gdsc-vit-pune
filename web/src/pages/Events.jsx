@@ -19,7 +19,7 @@ const Events = () => {
                             <h2 className='py-2 px-1 fw-700'>{event.name}</h2>
                             {
                                 event.isLive &&
-                                <p className='live-indicator col-1 justify-content-center d-flex flex py-1 ms-2 fw-600 rounded' style={{backgroundColor: 'red', color: 'white'}}>Live now</p>
+                                <p className='live-indicator col-5 col-md-2 col-lg-1 justify-content-center d-flex flex py-1 ms-2 fw-600 rounded' style={{backgroundColor: 'red', color: 'white'}}>Live now</p>
                             }
                             <div className="images container justify-content-center align-middle items-center py-2">
                                 {event.images.map((image, index) => (

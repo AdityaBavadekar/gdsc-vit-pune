@@ -24,7 +24,7 @@ const About = () => {
 
                 <div className='mt-5'>
                     <h2 className='py-3 fw-600 text-center'>What we do?</h2>
-                    <div className="mt-3 flex flex-row d-flex gap-5 justify-content-center items-center">
+                    <div className="mt-3 mx-0 px-0 d-flex flex-md-row flex-sm-column gap-5 justify-content-center items-center">
                         <p className='fs-5 text-center card card-cd p-4' id='card-1'>
                             <i class="ri-calendar-event-fill display-5 my-3 pb-3" style={{ color: 'blue' }}></i>
                             We organize a variety of events and workshops throughout the year, covering a wide range of domains.
@@ -42,8 +42,8 @@ const About = () => {
 
                 <div className='mt-5'>
                     <h2 className='py-3 fw-600 text-center'>Domains</h2>
-                    <div className="mt-4 container d-flex flex flex-row gap-5 justify-content-center">
-                        <div className="card p-4 w-25"  style={{backgroundColor:'lightgreen ', borderRadius: '18px'}}>
+                    <div className="mt-4 container d-flex flex-md-row flex-sm-column gap-5 justify-content-center">
+                        <div className="card p-4 col-md col-sm-12"  style={{backgroundColor:'lightgreen ', borderRadius: '18px'}}>
                             <h3 className='fw-400 rounded fs-4 p-3 text-center'>Technical</h3>
                             <ul className='py-3 opacity-75'>
                                 <li>Web Development</li>
@@ -52,7 +52,7 @@ const About = () => {
                                 <li>Web 3</li>
                             </ul>
                         </div>
-                        <div className="card p-4"  style={{backgroundColor:'lightblue', borderRadius: '18px'}}>
+                        <div className="card p-4 col-md col-sm-12"  style={{backgroundColor:'lightblue', borderRadius: '18px'}}>
                             <h3 className='fw-400 fs-4 rounded p-3 text-center'>Non-Technical</h3>
                             <ul className='py-3 opacity-75'>
                                 <li>Management</li>

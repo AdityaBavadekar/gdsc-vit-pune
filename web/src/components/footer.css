@@ -22,15 +22,10 @@ footer > div {
     margin-bottom: 28px;
 }
 
-.social-media-links {
-    display: flex;
-    justify-content: center;
-    gap: 8px;
-    /* margin: 0 28px; */
-}
-
-.social-media-item {
+footer li{
     list-style-type: none;
+    padding: 0;
+    margin: 0;
 }
 
 .social-media-link {

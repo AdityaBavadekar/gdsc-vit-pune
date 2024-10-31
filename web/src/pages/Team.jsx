@@ -11,7 +11,7 @@ const TeamMember = ({member}) => {
                 <p className='text-center fs-4 text-muted'>Lead</p>
             </div>
         }
-        <div className="team-member w-25">
+        <div className="team-member col-md-4 col-sm-12 col-lg-3">
             <img src={`${member.image}`} alt={member.name} className='rounded mb-3 img-fluid'/>
             <h3 className='fw-700'>{member.name}</h3>
             <h4 className='text-muted fs-4 my-2'>{member.role}</h4>
