@@ -18,7 +18,7 @@ const Blogs = () => {
                     {
                         blogsData.map((blog, index) => {
                             return (
-                                <div key={index} className="mb-3 w-25 border rounded">
+                                <div key={index} className="mb-3 col-md col-sm-12 border rounded">
                                     <a href={blog.link} className='text-decoration-none p-0 m-0 text-dark' target='_blank'>
                                         <div className="p-0 m-0 w-full">
                                             <img src={blog.image} className="img-fluid w-full bg-dark p-3" alt={blog.title} style={{objectFit: 'cover'}}/>

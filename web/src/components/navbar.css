@@ -12,6 +12,13 @@
   height: 72px;
 }
 
+@media screen and (max-width: 350px) {
+  #navbar-nav-app-logo {
+    height: 24px;
+  }
+  
+}
+
 .navbar img {
   height: 52px;
 }
