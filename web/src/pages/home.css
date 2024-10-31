@@ -1,0 +1,39 @@
+#lead-text-container {
+    animation: slide-screen-color 8s infinite alternate;
+    border-radius: 50%;
+}
+
+@keyframes slide-screen-color {
+    0% {
+        border-radius: 30% 70% 70% 30% / 30% 30% 70% 70% ;
+        background-color: rgb(217, 217, 243);
+    }
+    50% {
+        border-radius: 48% 52% 76% 24% / 43% 83% 17% 57%;
+    }
+    75% {
+        border-radius: 75% 25% 71% 29% / 34% 60% 40% 66%;
+    }
+    100% {
+        border-radius: 32% 68% 23% 77% / 70% 42% 58% 30%;
+        background-color: rgb(224, 214, 194);
+    }
+}
+
+.go-to-icon {
+    background-color: blue;
+}
+
+.live-indicator {
+    animation: live-indication 3s infinite;
+    transition: padding 0.8s;
+}
+
+@keyframes live-indication {
+    0% {
+        background-color: red;
+    }
+    50% {
+        background-color: rgba(185, 6, 6, 0.719);
+    }
+}

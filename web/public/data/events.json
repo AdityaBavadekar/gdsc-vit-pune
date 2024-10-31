@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Event 1",
+        "date": "01-01-2021",
+        "images": [
+            "workshop1.png",
+            "workshop2.png"
+        ],
+        "isLive": true,
+        "link": "https://www.example.com",
+        "description": "Description of event 1"
+    },
+    {
+        "id": 2,
+        "name": "Event 2",
+        "date": "02-02-2020",
+        "images": [
+            "workshop1.png",
+            "workshop2.png"
+        ],
+        "isLive": false,
+        "link": "https://www.example.com",
+        "description": "Description of event 2"
+    },
+    {
+        "id": 3,
+        "name": "Event 3",
+        "date": "03-03-2021",
+        "images": [
+            "workshop1.png",
+            "workshop2.png"
+        ],
+        "isLive": false,
+        "link": "https://www.example.com",
+        "description": "Description of event 3"
+    }
+]

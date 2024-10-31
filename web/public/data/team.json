@@ -1,0 +1,79 @@
+{
+    "metadata":{
+        "year": "2024-2025"
+    },
+    "members": [
+        {
+            "name": "John Doe",
+            "linkedin": "https://www.linkedin.com/in/johndoe",
+            "github": "https://github.com/johndoe",
+            "personal": "https://instagram.com/johndoe",
+            "image": "https://github.com/johndoe.png",
+            "role": "DSC Lead"
+        },
+        {
+            "name": "Jane Smith",
+            "linkedin": "https://www.linkedin.com/in/janesmith",
+            "github": "https://github.com/janesmith",
+            "personal": "https://instagram.com/janesmith",
+            "image": "https://github.com/janesmith.png",
+            "role": "App Development Head"
+        },
+        {
+            "name": "Emily Johnson",
+            "linkedin": "https://www.linkedin.com/in/emilyjohnson",
+            "github": "https://github.com/emilyjohnson",
+            "personal": "https://instagram.com/emilyjohnson",
+            "image": "https://github.com/emilyjohnson.png",
+            "role": "Web Development Head"
+        },
+        {
+            "name": "Michael Brown",
+            "linkedin": "https://www.linkedin.com/in/michaelbrown",
+            "github": "https://github.com/michaelbrown",
+            "personal": "https://instagram.com/michaelbrown",
+            "image": "https://github.com/michaelbrown.png",
+            "role": "AI/ML Head"
+        },
+        {
+            "name": "Alice Davis",
+            "linkedin": "https://www.linkedin.com/in/alicedavis",
+            "github": "https://github.com/alicedavis",
+            "personal": "https://instagram.com/alicedavis",
+            "image": "https://github.com/u1.png",
+            "role": "Web 3 Head"
+        },
+        {
+            "name": "Chris Wilson",
+            "linkedin": "https://www.linkedin.com/in/chriswilson",
+            "github": "https://github.com/chriswilson",
+            "personal": "https://instagram.com/chriswilson",
+            "image": "https://github.com/chriswilson.png",
+            "role": "Content Head"
+        },
+        {
+            "name": "Sophia Martinez",
+            "linkedin": "https://www.linkedin.com/in/sophiamartinez",
+            "github": "https://github.com/sophiamartinez",
+            "personal": "https://instagram.com/sophiamartinez",
+            "image": "https://github.com/sophiamartinez.png",
+            "role": "Management Head"
+        },
+        {
+            "name": "Daniel Lee",
+            "linkedin": "https://www.linkedin.com/in/daniellee",
+            "github": "https://github.com/daniellee",
+            "personal": "https://instagram.com/daniellee",
+            "image": "https://github.com/daniellee.png",
+            "role": "Multimedia Head"
+        },
+        {
+            "name": "Olivia Taylor",
+            "linkedin": "https://www.linkedin.com/in/oliviataylor",
+            "github": "https://github.com/oliviataylor",
+            "personal": "https://instagram.com/oliviataylor",
+            "image": "https://github.com/oliviataylor.png",
+            "role": "Cybersecurity Coordinator"
+        }
+    ]
+}
