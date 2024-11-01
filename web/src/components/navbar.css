@@ -1,5 +1,4 @@
 .navbar {
-  height: 72px;
   align-items: center;
   background-color: white;
   border-bottom: 1px solid #e0e0e0;
@@ -12,11 +11,24 @@
   height: 72px;
 }
 
-@media screen and (max-width: 350px) {
+.navbar-toggler {
+  border: none;
+}
+
+@media screen and (max-width: 460px) {
   #navbar-nav-app-logo {
     height: 24px;
   }
-  
+  .navbar {
+    padding: 8px 12px;
+  }
+  #navbarSupportedContent {
+    padding: 28px 18px;
+    width: 100%;
+    background-color: aqua;
+    border-radius: 5%;
+    color: white;
+  }
 }
 
 .navbar img {

@@ -4,9 +4,25 @@ const Blogs = () => {
     const [blogsData, setBlogsData] = React.useState([]);
 
     React.useEffect(() => {
-        fetch('./data/blogs.json')
+        fetch('https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/dscvitpune')
             .then((response) => response.json())
-            .then((data) => setBlogsData(data))
+            .then((data) => {
+                const blogItems = data.items.map((item) => {
+                    let imageUrl = item.thumbnail;
+                    if (!imageUrl || imageUrl === '') {
+                        imageUrl = item.content.match(/src="([^"]+)"/)[1];
+                    } 
+                    return {
+                        author: item.author,
+                        title: item.title,
+                        link: item.link,
+                        date: item.pubDate,
+                        image: imageUrl
+                    }
+                })
+                setBlogsData(blogItems);
+                console.log(blogItems);
+            })
     }, [])
 
     

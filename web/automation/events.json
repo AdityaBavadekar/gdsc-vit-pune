@@ -1,0 +1,302 @@
+[
+  {
+    "name": "C++ Bootcamp",
+    "description": "Google Developers Student Club VIT Pune\ud83e\uddd1\ud83c\udffb\u200d\ud83d\udcbb are back at it, with a BootCamp! If you are a beginner, this is just the right thing for you, and a bit of revision won't hurt, you alpha geeks. \u2728 C++ BootCamp is going to floor basics to advance like \u2022 STL \u2022 OOP \u2022 Macros and many more! We are eager to \"C\" you for a swotting weekend.\ud83c\udfd6\ufe0f \ud83d\uddd3\ufe0f ONLINE Event date and time: 4th March: 6:30 pm - 8:30 pm 5th March: 6:30pm - 8:30 pm 6th March: 4:00pm - 8:00 pm 7th March: 11:00 am - 1 pm & 1:30 pm - 3 pm",
+    "images": [
+      "https://dscvitpune.netlify.app/images/posters/cpp_2021.jpeg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/cpp_2021.jpeg",
+    "id": "26",
+    "type": "past_event"
+  },
+  {
+    "name": "MLFest'21: The Neural Networks Edition",
+    "description": "Were you one of us who detested study of biological neurons back in the day? But don't fret! We propose to take you into the world of Neural Networks and teach you all about artificial neurons, the mathematics of how deep neural networks work!! \ud83d\udc69\u200d\ud83d\udcbb DSC VIT Pune \ud83d\udc68\u200d\ud83d\udcbb present to you:\u2800\u2800 \u2b50 MLFest'21 - The Explore ML Workshop\u2b50\u2800 \u2b50 MLFest'21 - The Explore ML Workshop\u2b50\u2800 If you are fascinated to know how to extract features from an image or do you aspire to build you own siri one day? Then Day 2 is all for you! Get your hands full by processing images and developing advanced neural networks architecture. We won't let you go empty handed. You will get Google certified \"Explore ML\" certificates on completing the workshop! DSC VIT Pune brings to you Android Study Jam, where you can explore Android to the fullest! \ud83d\udcab. Its a FREE virtual event open for all students and professionals! Date: 20-21 February 2021 Time: 3 PM - 8.30 PM (20th February) & 10 AM - 7 PM (21st February) Venue: Online",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/mlfest_NN/mlfest_nn_1.png",
+      "https://dscvitpune.netlify.app/images/events_images/mlfest_NN/mlfest_nn_2.png",
+      "https://dscvitpune.netlify.app/images/events_images/mlfest_NN/mlfest_nn_3.png",
+      "https://dscvitpune.netlify.app/images/events_images/mlfest_NN/mlfest_nn_4.png",
+      "https://dscvitpune.netlify.app/images/events_images/mlfest_NN/mlfest_nn_5.png"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/ML_Fest21_poster.jpeg",
+    "id": "25",
+    "type": "past_event"
+  },
+  {
+    "name": "Android Study Jam - Kotlin",
+    "description": "Ever wondered how does the app you're reading this message on work? \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb What makes Android the potent development platform for app distribution? DSC VIT Pune brings to you Android Study Jam, where you can explore Android to the fullest! \ud83d\udcab.",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/android-study-jam-kotlin-1.jpeg",
+      "https://dscvitpune.netlify.app/images/events_images/android-study-jam-kotlin-2.jpeg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/android-study-jam-kotlin.jpeg",
+    "id": "24",
+    "type": "past_event"
+  },
+  {
+    "name": "Higher Studies in Abroad Prep | Engineering 101",
+    "description": "After the announcement of ML Fest, DSC vit arranged the Hands-on Python kick start workshop for those who aren\u2019t comfortable with Python. This event was a brief introduction to Python language and usage of libraries used for machine learning. The event was conducted to impart python understanding for solving real life problems and basic ML techniques. 16 th November Attendees: 100+",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/python__workshop_1.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/python__workshop_2.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/python__workshop_3.jpg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/shreeya.jpg",
+    "id": "22",
+    "type": "past_event"
+  },
+  {
+    "name": "On/Off Campus Placement Prep | Engineering 101 seniors to your rescue",
+    "description": "Engineering 101, a series of webinars focused on assisting the students with various issues and challenges faced by them in college. The issues and questions are addressed by the seniors of our college who have been leads and heads of various technical clubs and also had completed their internships at Nvidia, Google and Credit Suisse. 18th October 2020 Attendees : 160+",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/e_101_affan_1.png",
+      "https://dscvitpune.netlify.app/images/events_images/e_101_affan_2.png"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/101engineering_affan.jpg",
+    "id": "21",
+    "type": "past_event"
+  },
+  {
+    "name": "30 days of Google Cloud",
+    "description": "DSC VIT, Pune has been selected as one of the few institutions across India to host \"The 30 Days of Google Cloud\" program by Google Cloud. As part of the program, attendees will get a chance to kick start your career in Cloud Engineering and Data Science & Machine Learning while getting hands-on practice on Google Cloud - the tool that powers apps like Google Search, Gmail, and YouTube. Along the way, you will learn & practice concepts like computing, application development, big data & machine learning using the cloud. 28 September to 5 November 320+ enrollments",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/30_days_cloud_1.jpeg",
+      "https://dscvitpune.netlify.app/images/events_images/30_days_cloud_2.jpeg",
+      "https://dscvitpune.netlify.app/images/events_images/30_days_cloud_3.jpeg",
+      "https://dscvitpune.netlify.app/images/events_images/30_days_cloud_4.jpeg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/30daysofclous.jpg",
+    "id": "11",
+    "type": "past_event"
+  },
+  {
+    "name": "Azuring Success : Powering your websites with Cloud | Maxim Salnikov | EMBARK 20",
+    "description": "Embark was a series of talk shows by 5 industry experts talking about the technological advancements and its need in the industrial field. The speakers and the agenda: Azuring Success : Powering your websites with Cloud | Maxim Salnikov 28th September 2020 330+ views",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/a_s_1.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/a_s_2.jpg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/azuringsucces.jpg",
+    "id": "16",
+    "type": "past_event"
+  },
+  {
+    "name": "The Cashless Movement : Integrating Payment with Web | Hemanth HM | EMBARK 20",
+    "description": "Embark was a series of talk shows by 5 industry experts talking about the technological advancements and its need in the industrial field. The speakers and the agenda: The Cashless Movement : Integrating Payment with Web | Hemanth HM 26th September 2020 380+ views",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/c_m_1.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/c_m_2.jpg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/cashlessmovement.jpg",
+    "id": "15",
+    "type": "past_event"
+  },
+  {
+    "name": "Microsoft Surface Duo: Productivity Done Better | Ceaser Valiente | EMBARK 20",
+    "description": "Embark was a series of talk shows by 5 industry experts talking about the technological advancements and its need in the industrial field. The speakers and the agenda: Microsoft Surface Duo: Productivity Done Better | Ceaser 18th September 2020 460 + views",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/m_s_d_1.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/m_s_d_2.jpg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/microsoftdua.jpg",
+    "id": "14",
+    "type": "past_event"
+  },
+  {
+    "name": "Remapping Navigation | Alain Chautard | EMBARK 20",
+    "description": "Embark was a series of talk shows by 5 industry experts talking about the technological advancements and its need in the industrial field. The speakers and the agenda: Remapping Navigation | Alain Chautard 17th September 2020 580+ views",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/r_n_1.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/r_n_2.jpg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/remappingnavigation.jpg",
+    "id": "12",
+    "type": "past_event"
+  },
+  {
+    "name": "Dismantling AI | Akshay Kulkarni | EMBARK 20",
+    "description": "Embark was a series of talk shows by 5 industry experts talking about the technological advancements and its need in the industrial field. The speakers and the agenda: Dismantling AI | Akshay Kulkarni 14th sept 2020 980+ views",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/d_a_1.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/d_a_2.jpg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/dismantlingai.jpg",
+    "id": "13",
+    "type": "past_event"
+  },
+  {
+    "name": "A Tour to PWA by Varsha Jaiswal",
+    "description": "Hold your breath as we unveil the speaker line-up for the much awaited event Almas de ingenieria \ud83d\udca1 < Unleash your uniqueness> Speaker #1 Ms. Varsha Jaiswal She is presently working as a Software Engineer at Edfora. Alongside She is an organiser at the Google Developers Group of Jalandhar & also an Ambassador for the Women Techmakers, aiming to empower and support women in the tech industry. She is also a facilitator of #IamRemarkable. 15 September 2020",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/tour_to_pwa_1.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/tour_to_pwa_2.jpg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/Varsha Jaiswal.jpeg",
+    "id": "18",
+    "type": "past_event"
+  },
+  {
+    "name": "Pro Fit Chain of FOSS in Action by Nehal Singhal",
+    "description": "Here we present you all our Third Speaker for the event Almas de ingenieria \ud83d\udca1 < Unleash your uniqueness> Speaker #3 Ms. Nehal Singhal One of the most impressive developer and speaker Ms Nehal Singhal who is also the founder of #profitcha.in. Her website blooms with positivity and life enriching events. \u2728 15 September 2020",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/pro_fit_chain_1.jpg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/NehalSinghal.jpeg",
+    "id": "19",
+    "type": "past_event"
+  },
+  {
+    "name": "Workshop on Career Development by Lakshay Sharma",
+    "description": "Here comes the next speaker in the amazing line-up of Almas de ingenieria\ud83d\udca1 < Unleash your uniqueness> Speaker #4 Mr. Lakshay Sharma He is a Technology Analyst at Infosys, Designer Lead at Arpan and a Musician \u2728 He has a list of awards stating few; He has won Digital Exemplary Award, Best Paper Award & Hack Expert at IIT Roorkee \ud83d\udc68\u200d\ud83c\udf93 15 September 2020 Attendees : 100+ Attendees : 100+",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/work_carrer_develo_1.jpg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/LakshaySharma.jpeg",
+    "id": "20",
+    "type": "past_event"
+  },
+  {
+    "name": "The era of innovative approaches by Muneer Khan",
+    "description": "Here comes our next speaker for the event Almas de ingenieria \ud83d\udca1 < Unleash your uniqueness> Speaker #2 Mr. Muneer Khan He is working as a Research Associate at Google, He is the Founder of Premium Choice Zone & a Former Intern at DRDO India. \ud83c\uddee\ud83c\uddf3 15 September 2020",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/era_of_inn_1.jpg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/MuneerKhan.jpeg",
+    "id": "17",
+    "type": "past_event"
+  },
+  {
+    "name": "Flutter Bootcamp",
+    "description": "In this event, the basics of flutter were introduced. As a final product of the event, the attendees were helped to build their first ever Android app with the help of Flutter. 1st and 2nd February 2019 8th and 9th February 2019 Attendees : 80+",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/f_b_1.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/flutter_bootcamp_2.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/f_b_3.jpg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/flutterbootcamp.jpg",
+    "id": "9",
+    "type": "past_event"
+  },
+  {
+    "name": "Flutter interact",
+    "description": "Previous Next Description Viewing party of one of the biggest event ever hosted Flutter interact. A worldwide celebration of the work of Dart and flutter. The attendees were able to witness amazing new frameworks enhancements and win some exciting schwags. 21st December 2019 Attendees : 40+",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/f_i_1.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/f_i_2.jpg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/flutterinteract.jpg",
+    "id": "7",
+    "type": "past_event"
+  },
+  {
+    "name": "Experience Product Development for Real",
+    "description": "Description In this workshop, the attendees were able to experience the entire product development lifecycle, with guidance from Tech leads and the Crio platform. The attendees were able to sharpen key concepts like Serialization, Consuming 3rd party rest APIs, interfaces and more. 11th and 10th January",
+    "images": [],
+    "displayImage": "https://dscvitpune.netlify.app/images/events_images/Experience  Product Development For Real.jpeg",
+    "id": "8",
+    "type": "past_event"
+  },
+  {
+    "name": "ML-fest'19: Explore ML Workshop: Beginner",
+    "description": "The Explore ML workshop, Beginner Track. A program focused on enhancing AI skills and learn more about Google AI. After successful completion the attendees were eligible for Google certified \"Explore ML\" certificates and goodies from Google. 17th November 2019 Attendees : 360+",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/ml_fest_1.JPG",
+      "https://dscvitpune.netlify.app/images/events_images/ml_fest_2.JPG",
+      "https://dscvitpune.netlify.app/images/events_images/ml_fest_3.JPG",
+      "https://dscvitpune.netlify.app/images/events_images/mlfest/ml-1.JPG",
+      "https://dscvitpune.netlify.app/images/events_images/mlfest/ml-2.JPG",
+      "https://dscvitpune.netlify.app/images/events_images/mlfest/ml-3.JPG",
+      "https://dscvitpune.netlify.app/images/events_images/mlfest/ml-4.JPG",
+      "https://dscvitpune.netlify.app/images/events_images/mlfest/ml-5.JPG",
+      "https://dscvitpune.netlify.app/images/events_images/mlfest/ml-6.JPG",
+      "https://dscvitpune.netlify.app/images/events_images/mlfest/ml-7.JPG"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/MLFest2019.jpg",
+    "id": "10",
+    "type": "past_event"
+  },
+  {
+    "name": "Python Workshop",
+    "description": "Shreeya shared about her internship experience in multinational companies like NVIDIA, and things to consider while applying for masters in the USA. She, with her experience and knowledgespoke about GPA'S GRE/TOEFL/IELTS RESUME FINANCIAL AIDS 22th October 2020 Attendees : 200+",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/shrey _101_1.png",
+      "https://dscvitpune.netlify.app/images/events_images/shreya_101_2.png",
+      "https://dscvitpune.netlify.app/images/events_images/shreya_101_3.png"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/events_images/python__workshop_1.jpg",
+    "id": "23",
+    "type": "past_event"
+  },
+  {
+    "name": "Actions On Google",
+    "description": "Previous Next Description An action packed workshop, where the attendees learned about: 19th October 2019 Attendees : 60+",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/a_o_g_1.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/a_o_g_2.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/a_o_g_3.jpg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/actionsongoogle.jpg",
+    "id": "6",
+    "type": "past_event"
+  },
+  {
+    "name": "CloudFest 2019",
+    "description": "Previous Next Description The First ever Cloud Fest in VIT Pune. It was a month long online crash course helping students to develop Apps, perform ML and AI algorithms, and Data Science on the Google cloud platform. Attendees who completed the course were eligible for Google badges, Certificate, swags and Goodies from Google Cloud. 11 October 2019 Attendees : 500+",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/cf_2019_1.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/cf_2019_2.jpg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/cloudfest2.jpg",
+    "id": "5",
+    "type": "past_event"
+  },
+  {
+    "name": "Git-Hub workshop",
+    "description": "Previous Next Description A Workshop focused on teaching the basics of Git and GitHub to young Data scientists in our college to learn and contribute to open source as well as learn how to store projects on GitHub using Git. 29th September 2019",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/ghb_w_1.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/ghb_w_2.jpg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/githubworkshop.jpg",
+    "id": "4",
+    "type": "past_event"
+  },
+  {
+    "name": "C and C++ Workshop",
+    "description": "Previous Next Description A 3-Day Workshop on C and C++, where the attendees could learn 20 to 22 September Attendees : 80+",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/c_cpp_1.jpeg",
+      "https://dscvitpune.netlify.app/images/events_images/c_cpp_2.jpeg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/candc++workshop.jpg",
+    "id": "3",
+    "type": "past_event"
+  },
+  {
+    "name": "Google Cloud Study jam and Tech Connect",
+    "description": "Previous Next Description The event was focused on having a hands-on experience with Google Cloud Platform via Qwiklabs. All attendees also got a complementary 1-month access to Qwiklabs worth $55, Google Cloud badges, exciting swags & goodies and also a chance to interact with the Google Dev Community. 10th August 201911th August 2019 Attendees : 270+",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/c_s_j_a_t_c_1.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/c_s_j_a_t_c_2.jpg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/cloud study jam.png",
+    "id": "2",
+    "type": "past_event"
+  },
+  {
+    "name": "Workshop on Machine Learning",
+    "description": "A Workshop conducted to sharpen basic python and machine learning skills, with Hands-on experience on solving 8-10 real life cases using various algorithms. The students were able perform ML algorithms with ease and obtain better accuracy on their models. 23th & 24th March 2019 30th & 31st March 2019 Attendees : 60+",
+    "images": [
+      "https://dscvitpune.netlify.app/images/events_images/w_m_l_1.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/w_m_l_2.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/ml_melange/ml-jam-1.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/ml_melange/ml-jam-3.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/ml_melange/ml-jam-4.jpg",
+      "https://dscvitpune.netlify.app/images/events_images/ml_melange/ml-jam-5.jpg"
+    ],
+    "displayImage": "https://dscvitpune.netlify.app/images/posters/Machinelearningjam.png",
+    "id": "1",
+    "type": "past_event"
+  }
+]

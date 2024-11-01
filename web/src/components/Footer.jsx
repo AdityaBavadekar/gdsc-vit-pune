@@ -19,18 +19,18 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
-            <div className="p-5 container justify-content-center align-items-center d-flex flex-column">
+            <div className="mt-5 justify-content-center align-items-center d-flex flex-column">
                 {/* <p className='fs-5 mb-5'>Follow us on</p> */}
-                <div className="container">
-                    <ul className='social-media-links row d-flex justify-content-center items-center gap-4'>
-                        <li className="social-media-item col-md col-2"><a href="https://instagram.com/dscvitpune" className="social-media-link" target="_blank"><i class="ri-instagram-fill" title='Instagram'></i></a></li>
-                        <li className="social-media-item col-md col-2"><a href="https://x.com/gdscvitpune" className="social-media-link" target="_blank"><i class="ri-twitter-fill" title='X'></i></a></li>
-                        <li className="social-media-item col-md col-2"><a href="https://linkedin.com/company/gdscvitpune/" className="social-media-link" target="_blank"><i class="ri-linkedin-fill" title='Linkedin'></i></a></li>
-                        <li className="social-media-item col-md col-2"><a href="https://facebook.com/gdscvitpune" className="social-media-link" target="_blank"><i class="ri-facebook-fill" title='Facebook'></i></a></li>
-                        <li className="social-media-item col-md col-2"><a href="https://github.com/dscvitpune" className="social-media-link" target="_blank"><i class="ri-github-fill" title='GitHub'></i></a></li>
-                        <li className="social-media-item col-md col-2"><a href="https://discord.com/gdscvitpune" className="social-media-link" target="_blank"><i class="ri-discord-fill" title='Discord'></i></a></li>
-                        <li className="social-media-item col-md col-2"><a href="https://youtube.com/@gdscvitpune" className="social-media-link" target="_blank"><i class="ri-youtube-fill" title='Youtube'></i></a></li>
-                        <li className="social-media-item col-md col-2"><a href="https://medium.com/dscvitpune" className="social-media-link" target="_blank"><i class="ri-medium-fill" title='Medium'></i></a></li>
+                <div className="m-0 w-full p-0 vw-100 h-auto align-middle">
+                    <ul className='flex-row gap-2 gap-md-4 d-flex justify-content-center items-center'>
+                        <li className="social-media-item"><a href="https://instagram.com/dscvitpune" className="social-media-link" target="_blank"><i class="ri-instagram-fill" title='Instagram'></i></a></li>
+                        <li className="social-media-item"><a href="https://x.com/gdscvitpune" className="social-media-link" target="_blank"><i class="ri-twitter-fill" title='X'></i></a></li>
+                        <li className="social-media-item"><a href="https://linkedin.com/company/gdscvitpune/" className="social-media-link" target="_blank"><i class="ri-linkedin-fill" title='Linkedin'></i></a></li>
+                        <li className="social-media-item"><a href="https://facebook.com/gdscvitpune" className="social-media-link" target="_blank"><i class="ri-facebook-fill" title='Facebook'></i></a></li>
+                        <li className="social-media-item"><a href="https://github.com/dscvitpune" className="social-media-link" target="_blank"><i class="ri-github-fill" title='GitHub'></i></a></li>
+                        <li className="social-media-item"><a href="https://discord.com/gdscvitpune" className="social-media-link" target="_blank"><i class="ri-discord-fill" title='Discord'></i></a></li>
+                        <li className="social-media-item"><a href="https://youtube.com/@gdscvitpune" className="social-media-link" target="_blank"><i class="ri-youtube-fill" title='Youtube'></i></a></li>
+                        <li className="social-media-item"><a href="https://medium.com/dscvitpune" className="social-media-link" target="_blank"><i class="ri-medium-fill" title='Medium'></i></a></li>
                     </ul>
                 </div>
             </div>

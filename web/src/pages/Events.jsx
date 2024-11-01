@@ -4,7 +4,7 @@ const Events = () => {
     const [eventsData, setEventsData] = React.useState([]);
 
     React.useEffect(() => {
-        fetch('./data/events.json')
+        fetch('../data/events.json')
             .then(response => response.json())
             .then(data => setEventsData(data));
     }, []);
@@ -23,15 +23,11 @@ const Events = () => {
                             }
                             <div className="images container justify-content-center align-middle items-center py-2">
                                 {event.images.map((image, index) => (
-                                    <img key={index} src={image} className='img-fluid w-50'/>
+                                    <img key={index} src={'../'+image} className='img-fluid w-50'/>
                                 ))}
                             </div>
                             <p>{
-                                (() => {
-                                    const [day, month, year] = event.date.split('-');
-                                    const date = new Date(year, month - 1, day);
-                                    return date.toDateString();
-                                })()
+                                event.date && <p>{event.date}</p>
                             }</p>
                             <p>{event.description}</p>
                             {

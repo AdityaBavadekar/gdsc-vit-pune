@@ -30,9 +30,6 @@ footer li{
 
 .social-media-link {
     background-color: white;
-    padding: 8px 16px;
-    border-radius: 8px;
-    transition: background-color 0.3s, color 0.3s;
     text-decoration: none;
     font-size: 32px;
 }
@@ -41,20 +38,10 @@ footer li{
     color: rgb(0, 51, 128);
 }
 
-.social-media-link:hover {
-    background-color: blue;
-    color: white;
-}
-
 @media screen and (max-width: 768px) {
     footer {
         margin-top: 0;
     }
-
-    .social-media-links {
-        margin: 0;
-    }
-    
 }
 
 @media screen and (max-width: 480px) {
@@ -66,18 +53,9 @@ footer li{
         padding: 8px;
     }
 
-    .social-media-links {
-        gap: 0;
-    }
-
     .social-media-link {
         padding: 0;
-        font-size: 24px;
-    }
-
-    .social-media-link:hover {
-        background-color: none;
-        color: rgb(0, 51, 128);
+        font-size: 22px;
     }
     
 }
