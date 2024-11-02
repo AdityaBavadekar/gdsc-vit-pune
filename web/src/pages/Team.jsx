@@ -17,8 +17,14 @@ const TeamMember = ({member}) => {
             <h4 className='text-muted fs-4 my-2'>{member.role}</h4>
             <div className="social-links fs-4">
                 <a href={member.linkedin} target="_blank" rel="noopener noreferrer"><i class="ri-linkedin-fill" title='LinkedIn'></i></a>
-                <a href={member.github} target="_blank" rel="noopener noreferrer"><i class="ri-github-fill" title='Github'></i></a>
-                <a href={member.personal} target="_blank" rel="noopener noreferrer"><i class="ri-global-fill" title='Personal website'></i></a>
+                {
+                    member.github && 
+                    <a href={member.github} target="_blank" rel="noopener noreferrer"><i class="ri-github-fill" title='Github'></i></a>
+                }
+                {
+                    member.personal && 
+                    <a href={member.personal} target="_blank" rel="noopener noreferrer"><i class="ri-global-fill" title='Personal website'></i></a>
+                }
             </div>
         </div>
         {
