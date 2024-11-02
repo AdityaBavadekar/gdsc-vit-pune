@@ -35,7 +35,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="px-5 pt-5 container justify-content-center align-items-center d-flex flex-column">
-                <p className='fs-5 font-italic'>Made with ❤️ by DSC VIT, Pune</p>
+                <p className='fs-5 font-italic'>Made with ❤️ by <a href="https://github.com/AdityaBavadekar" className='fw-800 text-decoration-none'>Aditya Bavadekar</a>, DSC VIT, Pune</p>
             </div>
         </div>
     </footer>

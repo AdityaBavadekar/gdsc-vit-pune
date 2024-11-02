@@ -1,7 +1,12 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import './about.css'
 
 const About = () => {
+
+    useEffect(() => {
+        document.title = 'About - ' + document.title;
+    }, );
+
     return (
         <div className='container'>
             <div className="container py-5">
