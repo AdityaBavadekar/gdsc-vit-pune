@@ -43,7 +43,7 @@ const Team = () => {
     const [teamMetadata, setTeamMetadata] = React.useState([]);
 
     React.useEffect(() => {
-        fetch('./data/team.json')
+        fetch('./data/m_team.json')
             .then(response => response.json())
             .then(data => {
                 var coreTeamMembers = [];
@@ -51,6 +51,9 @@ const Team = () => {
 
                 setTeamMetadata(data.metadata);
                 data.members.forEach(member => {
+                    if (member.image2) {
+                        member.image = member.image2;
+                    }
                     const role = member.role.toLowerCase();
                     if (role.includes('head') || role.includes('lead')) {
                         coreTeamMembers.push(member);
