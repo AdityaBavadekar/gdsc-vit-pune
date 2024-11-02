@@ -123,7 +123,7 @@ const Home = () => {
                     <div className="container my-auto slide-from-bottom-card">
                         <h3 className='my-auto text-center lh-sm mx-5 text-muted fs-4' id='lead-text-3'>“The strength of the team is each individual member. The strength of each member is the team.” – Phil Jackson</h3>
                         <div className="mt-3">
-                            <Link to='/blogs' className="btn">View Team</Link>
+                            <Link to='/team' className="btn">View Team</Link>
                         </div>
                     </div>
                 </section>
