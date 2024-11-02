@@ -4,6 +4,8 @@ const Events = () => {
     const [eventsData, setEventsData] = React.useState([]);
 
     React.useEffect(() => {
+        document.title = 'Events - ' + document.title;
+        
         fetch('../data/events.json')
             .then(response => response.json())
             .then(data => setEventsData(data));

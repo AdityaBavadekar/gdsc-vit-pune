@@ -1,9 +1,12 @@
 import React from 'react';
+import './blogs.css';
 
 const Blogs = () => {
     const [blogsData, setBlogsData] = React.useState([]);
 
     React.useEffect(() => {
+        document.title = 'Blogs - ' + document.title;
+
         fetch('https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/dscvitpune')
             .then((response) => response.json())
             .then((data) => {
@@ -11,7 +14,7 @@ const Blogs = () => {
                     let imageUrl = item.thumbnail;
                     if (!imageUrl || imageUrl === '') {
                         imageUrl = item.content.match(/src="([^"]+)"/)[1];
-                    } 
+                    }
                     return {
                         author: item.author,
                         title: item.title,
@@ -21,7 +24,6 @@ const Blogs = () => {
                     }
                 })
                 setBlogsData(blogItems);
-                console.log(blogItems);
             })
     }, [])
 
@@ -30,17 +32,18 @@ const Blogs = () => {
         <div className='container'>
             <div className="container py-5">
                 <h1 className='text-center display-3 fw-700 lh-md py-5'>Blogs</h1>
-                <div className="blogs-container container flex flex-row row gap-3 justify-content-center">
+                <div className="blogs-container container flex flex-row row gap-md-3 justify-content-center">
                     {
                         blogsData.map((blog, index) => {
                             return (
-                                <div key={index} className="mb-3 col-md col-sm-12 border rounded">
-                                    <a href={blog.link} className='text-decoration-none p-0 m-0 text-dark' target='_blank'>
-                                        <div className="p-0 m-0 w-full">
-                                            <img src={blog.image} className="img-fluid w-full bg-dark p-3" alt={blog.title} style={{objectFit: 'cover'}}/>
-                                        </div>
-                                        <div className="container mt-3 pb-5">
-                                            <p className="h3 fw-600">{blog.title}</p>
+                                <div key={index} className="mb-3 col-md col-sm-12 border rounded blog-full-card">
+                                    <a href={blog.link} className='text-decoration-none p-0 m-0' target='_blank'>
+                                        <img src={blog.image} className="img-fluid border" alt={blog.title}/>
+                                        <div className="container mt-3 z-3">
+                                            {
+                                                blog.date && <p className="fw-400 text-uppercase">{new Date(blog.date).toDateString().substring(3)}</p>
+                                            }
+                                            <p className="h5 fw-600 pb-2">{blog.title}</p>
                                             <p className="fw-400">{blog.author}</p>
                                         </div>
                                     </a>
