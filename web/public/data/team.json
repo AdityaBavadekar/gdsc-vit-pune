@@ -1,85 +1,89 @@
 {
-    "metadata":{
-        "year": "2024-2025"
-    },
-    "members": [
+    "teams": [
         {
-            "name": "Karan Harshey",
-            "linkedin": "https://in.linkedin.com/in/karan-harshey-2490a2288",
-            "image": "https://media.licdn.com/dms/image/v2/D4D03AQGYj34xQ7JU0Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1713686847573?e=2147483647&v=beta&t=sGUCDSrJZpk6WPXVUpnJ46JniOibzLqZvlzQW3VCt0U",
-            "role": "DSC Lead"
-        },
-        {
-            "name": "Aanchal Shrivastava",
-            "linkedin": "https://in.linkedin.com/in/aanchal-shrivastava-8bb94225b",
-            "image": "https://media.licdn.com/dms/image/v2/D4D03AQHWpBszb4XZCQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724774617005?e=2147483647&v=beta&t=Tb5qzXJ4N9Z4EGtx_14yI4VpHJ0H2im7zfjpOEwVvXk",
-            "role": "Content Head"
-        },
-        {
-            "name": "Urvi Kshirsagar",
-            "linkedin": "https://in.linkedin.com/in/urvi-kshirsagar-4b41a626a",
-            "image": "https://media.licdn.com/dms/image/v2/D4D03AQGbtR2bVON-9g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1722853448103?e=2147483647&v=beta&t=TjtPi2LxFLXx8Nh7PTe0xbTeXLQrPXIILZ3W0rJVSic",
-            "role": "Management Head"
-        },
-        {
-            "name": "Keyur Barde",
-            "linkedin": "https://in.linkedin.com/in/keyur-barde-3735a81b0",
-            "image": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
-            "role": "Multimedia Head"
-        },
-        {
-            "name": "Mandar Pandagale",
-            "linkedin": "https://in.linkedin.com/in/mandar-pandagale",
-            "github": "https://github.com/mandar-p27",
-            "image": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
-            "role": "Web3 Head"
-        },
-        {
-            "name": "Karansingh Pardeshi",
-            "linkedin": "https://in.linkedin.com/in/karansingh-pardeshi-187095293",
-            "image": "https://media.licdn.com/dms/image/v2/D4D03AQHRKxb5M30aKg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1719018440050?e=2147483647&v=beta&t=KEC6kt-6RoDLJ0VG8ew030xaNW4Dm3axVNFHWesaDuA",
-            "role": "Multimedia Co-Head"
-        },
-        {
-            "name": "Krrish Kumbhare",
-            "linkedin": "https://in.linkedin.com/in/krrish-kumbhare-921b47284",
-            "github": "https://github.com/krrishkumbhare07",
-            "image": "https://media.licdn.com/dms/image/v2/D4D03AQEfEKpc05ZBDQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1699804157123?e=2147483647&v=beta&t=JvJ8Jz5FaiPpansW0H5eeMzl7XrVNxt64e6lqmGBTC8",
-            "role": "App Development Head"
-        },
-        {
-            "name": "Rishi Jain",
-            "linkedin": "https://in.linkedin.com/in/rishi-jain-286642256",
-            "image": "https://media.licdn.com/dms/image/v2/D5603AQG2CtD54k1XWg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1696953020104?e=2147483647&v=beta&t=m0eqxU6tXTWBSyN2QPa3G7jFdHUELtLuIo50x1s1CjA",
-            "role": "AI/ML Head"
-        },
-        {
-            "name": "Durvesh Chaudhari",
-            "linkedin": "https://in.linkedin.com/in/durvesh-chaudhari11",
-            "image": "https://media.licdn.com/dms/image/v2/D4E03AQFdfXuuqd6tZQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1696753688950?e=2147483647&v=beta&t=JxY3nrOjoJk4OM59r1wnbSQ22pV-gnjCi5VcNhxoKrU",
-            "role": "Web Development Head"
-        },
-        {
-            "name": "Omkar Lolage",
-            "linkedin": "https://in.linkedin.com/in/omkar-lolage-2135vo",
-            "github": "https://github.com/OmkarLolage21",
-            "personal": "https://omkarlolageportfolio.netlify.app/",
-            "image": "https://media.licdn.com/dms/image/v2/D4D03AQEzoq4LiWX8Dg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1728925756888?e=2147483647&v=beta&t=ZU7waOII0PbO_7fCXgC0UZ2e9qNG9J8J8_R_V0tstHU",
-            "role": "App Development Co-Head"
-        },
-        {
-            "name": "Advay Argade",
-            "linkedin": "https://in.linkedin.com/in/advay-argade",
-            "image": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
-            "role": "AI/ML Co-Head"
-        },
-        {
-            "name": "Aditya Bhattacharya",
-            "linkedin": "https://in.linkedin.com/in/aditya-bhattacharya-software-developer",
-            "github": "https://github.com/AdityaBhattacharya1",
-            "personal": "https://adityabh.is-a.dev/",
-            "image": "https://media.licdn.com/dms/image/v2/D4D35AQGQM1-6S-ThOg/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1722010367456?e=1731164400&v=beta&t=IrmzCIDrbzQzHiJPSTUbhEKTmb8i5GePKgqQrwolv0A",
-            "role": "Web Co-Head"
+            "metadata": {
+                "year": "2024-2025"
+            },
+            "members": [
+                {
+                    "name": "Karan Harshey",
+                    "linkedin": "https://in.linkedin.com/in/karan-harshey-2490a2288",
+                    "image": "https://media.licdn.com/dms/image/v2/D4D03AQGYj34xQ7JU0Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1713686847573?e=2147483647&v=beta&t=sGUCDSrJZpk6WPXVUpnJ46JniOibzLqZvlzQW3VCt0U",
+                    "role": "DSC Lead"
+                },
+                {
+                    "name": "Aanchal Shrivastava",
+                    "linkedin": "https://in.linkedin.com/in/aanchal-shrivastava-8bb94225b",
+                    "image": "https://media.licdn.com/dms/image/v2/D4D03AQHWpBszb4XZCQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724774617005?e=2147483647&v=beta&t=Tb5qzXJ4N9Z4EGtx_14yI4VpHJ0H2im7zfjpOEwVvXk",
+                    "role": "Content Head"
+                },
+                {
+                    "name": "Urvi Kshirsagar",
+                    "linkedin": "https://in.linkedin.com/in/urvi-kshirsagar-4b41a626a",
+                    "image": "https://media.licdn.com/dms/image/v2/D4D03AQGbtR2bVON-9g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1722853448103?e=2147483647&v=beta&t=TjtPi2LxFLXx8Nh7PTe0xbTeXLQrPXIILZ3W0rJVSic",
+                    "role": "Management Head"
+                },
+                {
+                    "name": "Keyur Barde",
+                    "linkedin": "https://in.linkedin.com/in/keyur-barde-3735a81b0",
+                    "image": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+                    "role": "Multimedia Head"
+                },
+                {
+                    "name": "Mandar Pandagale",
+                    "linkedin": "https://in.linkedin.com/in/mandar-pandagale",
+                    "github": "https://github.com/mandar-p27",
+                    "image": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+                    "role": "Web3 Head"
+                },
+                {
+                    "name": "Karansingh Pardeshi",
+                    "linkedin": "https://in.linkedin.com/in/karansingh-pardeshi-187095293",
+                    "image": "https://media.licdn.com/dms/image/v2/D4D03AQHRKxb5M30aKg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1719018440050?e=2147483647&v=beta&t=KEC6kt-6RoDLJ0VG8ew030xaNW4Dm3axVNFHWesaDuA",
+                    "role": "Multimedia Co-Head"
+                },
+                {
+                    "name": "Krrish Kumbhare",
+                    "linkedin": "https://in.linkedin.com/in/krrish-kumbhare-921b47284",
+                    "github": "https://github.com/krrishkumbhare07",
+                    "image": "https://media.licdn.com/dms/image/v2/D4D03AQEfEKpc05ZBDQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1699804157123?e=2147483647&v=beta&t=JvJ8Jz5FaiPpansW0H5eeMzl7XrVNxt64e6lqmGBTC8",
+                    "role": "App Development Head"
+                },
+                {
+                    "name": "Rishi Jain",
+                    "linkedin": "https://in.linkedin.com/in/rishi-jain-286642256",
+                    "image": "https://media.licdn.com/dms/image/v2/D5603AQG2CtD54k1XWg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1696953020104?e=2147483647&v=beta&t=m0eqxU6tXTWBSyN2QPa3G7jFdHUELtLuIo50x1s1CjA",
+                    "role": "AI/ML Head"
+                },
+                {
+                    "name": "Durvesh Chaudhari",
+                    "linkedin": "https://in.linkedin.com/in/durvesh-chaudhari11",
+                    "image": "https://media.licdn.com/dms/image/v2/D4E03AQFdfXuuqd6tZQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1696753688950?e=2147483647&v=beta&t=JxY3nrOjoJk4OM59r1wnbSQ22pV-gnjCi5VcNhxoKrU",
+                    "role": "Web Development Head"
+                },
+                {
+                    "name": "Omkar Lolage",
+                    "linkedin": "https://in.linkedin.com/in/omkar-lolage-2135vo",
+                    "github": "https://github.com/OmkarLolage21",
+                    "personal": "https://omkarlolageportfolio.netlify.app/",
+                    "image": "https://media.licdn.com/dms/image/v2/D4D03AQEzoq4LiWX8Dg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1728925756888?e=2147483647&v=beta&t=ZU7waOII0PbO_7fCXgC0UZ2e9qNG9J8J8_R_V0tstHU",
+                    "role": "App Development Co-Head"
+                },
+                {
+                    "name": "Advay Argade",
+                    "linkedin": "https://in.linkedin.com/in/advay-argade",
+                    "image": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+                    "role": "AI/ML Co-Head"
+                },
+                {
+                    "name": "Aditya Bhattacharya",
+                    "linkedin": "https://in.linkedin.com/in/aditya-bhattacharya-software-developer",
+                    "github": "https://github.com/AdityaBhattacharya1",
+                    "personal": "https://adityabh.is-a.dev/",
+                    "image": "https://media.licdn.com/dms/image/v2/D4D35AQGQM1-6S-ThOg/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1722010367456?e=1731164400&v=beta&t=IrmzCIDrbzQzHiJPSTUbhEKTmb8i5GePKgqQrwolv0A",
+                    "role": "Web Co-Head"
+                }
+            ]
         }
     ]
 }

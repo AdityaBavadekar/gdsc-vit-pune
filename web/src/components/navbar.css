@@ -11,23 +11,38 @@
   height: 72px;
 }
 
-.navbar-toggler {
+#navbarSupportedContent {
+  transition: all 0.3s;
+}
+
+.navbar-toggler, .navbar-toggler:active, .navbar:hover{
   border: none;
+  outline: none;
 }
 
 @media screen and (max-width: 460px) {
   #navbar-nav-app-logo {
-    height: 24px;
+    height: 42px;
+    margin: 0;
   }
   .navbar {
     padding: 8px 12px;
   }
+}
+
+@media screen and (max-width: 900px) {
   #navbarSupportedContent {
     padding: 28px 18px;
     width: 100%;
-    background-color: aqua;
+    background-color: beige;
     border-radius: 5%;
     color: white;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  #navbar-nav-app-logo {
+    height: 24px;
   }
 }
 

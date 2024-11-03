@@ -12,9 +12,11 @@ const TeamMember = ({member}) => {
             </div>
         }
         <div className="team-member col-md-4 col-sm-12 col-lg-3">
-            <img src={`${member.image}`} alt={member.name} className='img-fluid'/>
-            <h3 className='fw-700'>{member.name}</h3>
-            <h4 className='text-muted fs-4 my-2'>{member.role}</h4>
+            <div>
+                <img src={`${member.image}`} alt={member.name} className='img-fluid'/>
+                <h3 className='fw-700'>{member.name}</h3>
+                <h4 className='text-muted fs-5 my-2'>{member.role}</h4>
+            </div>
             <div className="social-links fs-4">
                 <a href={member.linkedin} target="_blank" rel="noopener noreferrer"><i class="ri-linkedin-fill" title='LinkedIn'></i></a>
                 {
@@ -43,7 +45,7 @@ const Team = () => {
     const [teamMetadata, setTeamMetadata] = React.useState([]);
 
     React.useEffect(() => {
-        fetch('./data/m_team.json')
+        fetch('./data/current_team.json')
             .then(response => response.json())
             .then(data => {
                 var coreTeamMembers = [];
@@ -54,6 +56,7 @@ const Team = () => {
                     if (member.image2) {
                         member.image = member.image2;
                     }
+                    member.name = member.name.trim().replace(" ", "\n");
                     const role = member.role.toLowerCase();
                     if (role.includes('head') || role.includes('lead')) {
                         coreTeamMembers.push(member);
@@ -67,7 +70,7 @@ const Team = () => {
     }, []);
 
     return (
-        <div className="container">
+        <div className="container" id='team-page'>
             <h1 className='fw-700 text-center py-5'>Meet the Team for {teamMetadata.year}</h1>
             <div className="container">
                 <h2 className='fw-700 text-center py-5'>Core Team ({coreTeam.length})</h2>

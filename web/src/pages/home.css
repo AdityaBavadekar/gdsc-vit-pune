@@ -106,9 +106,8 @@
     justify-content: center;
 }
 
-.section-container {
-    background: hsla(283, 83%, 86%, 1);
-    background: linear-gradient(90deg, hsla(283, 83%, 86%, 1) 0%, hsla(105, 11%, 85%, 1) 100%);
+section {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%239C92AC' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
 }
 
 .slide-from-left-card {animation: slide-from-left 1s linear;}
@@ -117,7 +116,7 @@
 
 .slide-from-bottom-card, .slide-from-left-card, .slide-from-right-card {
     animation-timeline: view();
-    animation-range: 0% 50%;
+    animation-range: -30% 30%;
     animation-iteration-count: 1;
 }
 
@@ -148,10 +147,12 @@
 @keyframes slide-from-left {
     0% {
         opacity: 0;
+        scale: 0;
         transform: translateX(-100%);
     }
-    70%, 100% {
+    100% {
         opacity: 1;
+        scale: 1;
         transform: translateX(0);
     }
 }
@@ -159,10 +160,12 @@
 @keyframes slide-from-right {
     0% {
         opacity: 0;
+        scale: 0;
         transform: translateX(50%);
     }
-    70%, 100% {
+    100% {
         opacity: 1;
+        scale: 1;
         transform: translateX(0);
     }
 }
@@ -201,6 +204,7 @@ body {
     left: 0;
     right: 0;
     padding: 10px;
+    transition: background-color 0.3s;
     color: white;
     background-color: rgba(85, 84, 84, 0.699);
 }
@@ -211,6 +215,15 @@ body {
     height: 100%;
     width: 100%;
     max-height: 350px;
+    transition: scale 0.3s;
+}
+
+.blog-card:hover img {
+    scale: 1.03;
+}
+
+.blog-card:hover .container {
+    background-color: black;
 }
 
 .event-card {
@@ -221,7 +234,7 @@ body {
 }
 
 .event-card img {
-    border-radius: 10px 10px 0 0;
+    border-radius: 10px 10px 20px 20px;
     object-fit: cover;
     height: 350px;
     width: 100%;
@@ -231,7 +244,28 @@ body {
 .event-card p {
     max-lines: 1;
     overflow: hidden;
+    font-weight: 800;
     text-wrap: nowrap;
     text-overflow: ellipsis;
     padding: 0 10px;
+}
+
+.event-card .text-container {
+    padding: 20px 20px;
+    margin: 0;
+}
+
+@media screen and (max-width: 450px) {
+    .font-animation {
+        font-size: small;
+    }
+    .font-animation-holder {
+        height: 200px;
+        justify-content: center;
+    }
+    .slide-from-bottom-card {
+        margin: 0;
+        padding: 0;
+        animation-range: 0% 30%;
+    }
 }
