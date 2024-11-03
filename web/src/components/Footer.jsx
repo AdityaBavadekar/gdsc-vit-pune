@@ -2,7 +2,10 @@ import './footer.css';
 
 const Footer = () => {
     return (
-      <footer className='border-top'>
+      <footer className='border-top m-0'>
+        <div style={{opacity: '0.1', userSelect:'none', padding: '0'}}>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" fill="blue"><path d="M0 0v60c9 0 18-3 25-10 13-14 36-14 50 0s36 14 50 0c13-14 36-14 50 0s36 14 50 0c13-14 36-14 50 0s36 14 50 0c13-14 36-14 50 0s36 14 50 0c13-14 36-14 50 0s36 14 50 0c13-14 36-14 50 0s36 14 50 0c13-14 36-14 50 0s36 14 50 0c13-14 36-14 50 0s36 14 50 0c13-14 36-14 50 0s37 13 50 0c14-14 37-14 50 0 7 7 16 10 25 10V0H0Z"></path></svg>
+        </div>
         <div className="container">
             <div className="container user-select-none justify-content-center pt-5 fs-3 flex d-flex flex-column align-items-center">
                 <img src='/dev_logo.png' alt='Dev Logo' className='dev-logo w-25 mb-5'/>
@@ -35,7 +38,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="px-5 pt-5 container justify-content-center align-items-center d-flex flex-column">
-                <p className='fs-5 font-italic'>Made with ❤️ by <a href="https://github.com/AdityaBavadekar" className='fw-800 text-decoration-none'>Aditya Bavadekar</a>, DSC VIT, Pune</p>
+                <p className='fs-5 font-italic'>Made with ❤️ by <a href="https://github.com/AdityaBavadekar" target="_blank" className='fw-800 text-decoration-none'>Aditya Bavadekar</a>, DSC VIT, Pune</p>
             </div>
         </div>
     </footer>
