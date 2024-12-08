@@ -2,84 +2,740 @@
     "metadata": {
         "year": "2024-2025"
     },
-    "members": [
-        {
-            "name": "Karan Harshey",
-            "linkedin": "https://in.linkedin.com/in/karan-harshey-2490a2288",
-            "image": "https://media.licdn.com/dms/image/v2/D4D03AQGYj34xQ7JU0Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1713686847573?e=2147483647&v=beta&t=sGUCDSrJZpk6WPXVUpnJ46JniOibzLqZvlzQW3VCt0U",
-            "role": "DSC Lead"
-        },
-        {
-            "name": "Aanchal Shrivastava",
-            "linkedin": "https://in.linkedin.com/in/aanchal-shrivastava-8bb94225b",
-            "image": "https://media.licdn.com/dms/image/v2/D4D03AQHWpBszb4XZCQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724774617005?e=2147483647&v=beta&t=Tb5qzXJ4N9Z4EGtx_14yI4VpHJ0H2im7zfjpOEwVvXk",
-            "role": "Content Head"
-        },
-        {
-            "name": "Urvi Kshirsagar",
-            "linkedin": "https://in.linkedin.com/in/urvi-kshirsagar-4b41a626a",
-            "image": "https://media.licdn.com/dms/image/v2/D4D03AQGbtR2bVON-9g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1722853448103?e=2147483647&v=beta&t=TjtPi2LxFLXx8Nh7PTe0xbTeXLQrPXIILZ3W0rJVSic",
-            "role": "Management Head"
-        },
-        {
-            "name": "Keyur Barde",
-            "linkedin": "https://in.linkedin.com/in/keyur-barde-3735a81b0",
-            "image": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
-            "role": "Multimedia Head"
-        },
-        {
-            "name": "Mandar Pandagale",
-            "linkedin": "https://in.linkedin.com/in/mandar-pandagale",
-            "github": "https://github.com/mandar-p27",
-            "image": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
-            "role": "Web3 Head"
-        },
-        {
-            "name": "Karansingh Pardeshi",
-            "linkedin": "https://in.linkedin.com/in/karansingh-pardeshi-187095293",
-            "image": "https://media.licdn.com/dms/image/v2/D4D03AQHRKxb5M30aKg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1719018440050?e=2147483647&v=beta&t=KEC6kt-6RoDLJ0VG8ew030xaNW4Dm3axVNFHWesaDuA",
-            "role": "Multimedia Co-Head"
-        },
-        {
-            "name": "Krrish Kumbhare",
-            "linkedin": "https://in.linkedin.com/in/krrish-kumbhare-921b47284",
-            "github": "https://github.com/krrishkumbhare07",
-            "image": "https://media.licdn.com/dms/image/v2/D4D03AQEfEKpc05ZBDQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1699804157123?e=2147483647&v=beta&t=JvJ8Jz5FaiPpansW0H5eeMzl7XrVNxt64e6lqmGBTC8",
-            "role": "App Development Head"
-        },
-        {
-            "name": "Rishi Jain",
-            "linkedin": "https://in.linkedin.com/in/rishi-jain-286642256",
-            "image": "https://media.licdn.com/dms/image/v2/D5603AQG2CtD54k1XWg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1696953020104?e=2147483647&v=beta&t=m0eqxU6tXTWBSyN2QPa3G7jFdHUELtLuIo50x1s1CjA",
-            "role": "AI/ML Head"
-        },
-        {
-            "name": "Durvesh Chaudhari",
-            "linkedin": "https://in.linkedin.com/in/durvesh-chaudhari11",
-            "image": "https://media.licdn.com/dms/image/v2/D4E03AQFdfXuuqd6tZQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1696753688950?e=2147483647&v=beta&t=JxY3nrOjoJk4OM59r1wnbSQ22pV-gnjCi5VcNhxoKrU",
-            "role": "Web Development Head"
-        },
-        {
-            "name": "Omkar Lolage",
-            "linkedin": "https://in.linkedin.com/in/omkar-lolage-2135vo",
-            "github": "https://github.com/OmkarLolage21",
-            "personal": "https://omkarlolageportfolio.netlify.app/",
-            "image": "https://media.licdn.com/dms/image/v2/D4D03AQEzoq4LiWX8Dg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1728925756888?e=2147483647&v=beta&t=ZU7waOII0PbO_7fCXgC0UZ2e9qNG9J8J8_R_V0tstHU",
-            "role": "App Development Co-Head"
-        },
-        {
-            "name": "Advay Argade",
-            "linkedin": "https://in.linkedin.com/in/advay-argade",
-            "image": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
-            "role": "AI/ML Co-Head"
-        },
-        {
-            "name": "Aditya Bhattacharya",
-            "linkedin": "https://in.linkedin.com/in/aditya-bhattacharya-software-developer",
-            "github": "https://github.com/AdityaBhattacharya1",
-            "personal": "https://adityabh.is-a.dev/",
-            "image": "https://media.licdn.com/dms/image/v2/D4D35AQGQM1-6S-ThOg/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1722010367456?e=1731164400&v=beta&t=IrmzCIDrbzQzHiJPSTUbhEKTmb8i5GePKgqQrwolv0A",
-            "role": "Web Co-Head"
-        }
-    ]
+    "members": {
+        "core": [
+            {
+                "name": "Karan Harshey",
+                "role": "DSC Lead",
+                "domain": "Lead",
+                "designation": "Lead",
+                "linkedin": "https://in.linkedin.com/in/karan-harshey-2490a2288",
+                "image": "https://media.licdn.com/dms/image/v2/D4D03AQGYj34xQ7JU0Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1713686847573?e=2147483647&v=beta&t=sGUCDSrJZpk6WPXVUpnJ46JniOibzLqZvlzQW3VCt0U",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Rishi Jain",
+                "role": "AI/ML Head",
+                "domain": "AI/ML",
+                "designation": "Head",
+                "linkedin": "https://in.linkedin.com/in/rishi-jain-286642256",
+                "image": "https://media.licdn.com/dms/image/v2/D5603AQG2CtD54k1XWg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1696953020104?e=2147483647&v=beta&t=m0eqxU6tXTWBSyN2QPa3G7jFdHUELtLuIo50x1s1CjA",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Urvi Kshirsagar",
+                "role": "Management Head",
+                "domain": "Management",
+                "designation": "Head",
+                "linkedin": "https://in.linkedin.com/in/urvi-kshirsagar-4b41a626a",
+                "image": "https://media.licdn.com/dms/image/v2/D4D03AQGbtR2bVON-9g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1722853448103?e=2147483647&v=beta&t=TjtPi2LxFLXx8Nh7PTe0xbTeXLQrPXIILZ3W0rJVSic",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Aanchal Shrivastava",
+                "role": "Content Head",
+                "domain": "Content",
+                "designation": "Head",
+                "linkedin": "https://in.linkedin.com/in/aanchal-shrivastava-8bb94225b",
+                "image": "https://media.licdn.com/dms/image/v2/D4D03AQHWpBszb4XZCQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724774617005?e=2147483647&v=beta&t=Tb5qzXJ4N9Z4EGtx_14yI4VpHJ0H2im7zfjpOEwVvXk",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Mandar Pandagale",
+                "role": "Web3 Head",
+                "domain": "Web3",
+                "designation": "Head",
+                "linkedin": "https://in.linkedin.com/in/mandar-pandagale",
+                "image": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+                "personal": "",
+                "github": "https://github.com/mandar-p27"
+            },
+            {
+                "name": "Keyur Barde",
+                "role": "Multimedia Head",
+                "domain": "Multimedia",
+                "designation": "Head",
+                "linkedin": "https://in.linkedin.com/in/keyur-barde-3735a81b0",
+                "image": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Krrish Kumbhare",
+                "role": "App Development Head",
+                "domain": "App Development",
+                "designation": "Head",
+                "linkedin": "https://in.linkedin.com/in/krrish-kumbhare-921b47284",
+                "image": "https://media.licdn.com/dms/image/v2/D4D03AQEfEKpc05ZBDQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1699804157123?e=2147483647&v=beta&t=JvJ8Jz5FaiPpansW0H5eeMzl7XrVNxt64e6lqmGBTC8",
+                "personal": "",
+                "github": "https://github.com/krrishkumbhare07"
+            },
+            {
+                "name": "Durvesh Chaudhari",
+                "role": "Web Development Head",
+                "domain": "Web Development",
+                "designation": "Head",
+                "linkedin": "https://in.linkedin.com/in/durvesh-chaudhari11",
+                "image": "https://media.licdn.com/dms/image/v2/D4E03AQFdfXuuqd6tZQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1696753688950?e=2147483647&v=beta&t=JxY3nrOjoJk4OM59r1wnbSQ22pV-gnjCi5VcNhxoKrU",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Advay Argade",
+                "role": "AI/ML Co-Head",
+                "domain": "AI/ML",
+                "designation": "Co-Head",
+                "linkedin": "https://in.linkedin.com/in/advay-argade",
+                "image": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Aditya Bhattacharya",
+                "role": "Web Co-Head",
+                "domain": "Web Development",
+                "designation": "Co-Head",
+                "linkedin": "https://in.linkedin.com/in/aditya-bhattacharya-software-developer",
+                "image": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+                "personal": "https://adityabh.is-a.dev/",
+                "github": "https://github.com/AdityaBhattacharya1"
+            },
+            {
+                "name": "Karansingh Pardeshi",
+                "role": "Multimedia Co-Head",
+                "domain": "Multimedia",
+                "designation": "Co-Head",
+                "linkedin": "https://in.linkedin.com/in/karansingh-pardeshi-187095293",
+                "image": "https://media.licdn.com/dms/image/v2/D4D03AQHRKxb5M30aKg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1719018440050?e=2147483647&v=beta&t=KEC6kt-6RoDLJ0VG8ew030xaNW4Dm3axVNFHWesaDuA",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Omkar Lolage",
+                "role": "App Development Co-Head",
+                "domain": "App Development",
+                "designation": "Co-Head",
+                "linkedin": "https://in.linkedin.com/in/omkar-lolage-2135vo",
+                "image": "https://media.licdn.com/dms/image/v2/D4D03AQEzoq4LiWX8Dg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1728925756888?e=2147483647&v=beta&t=ZU7waOII0PbO_7fCXgC0UZ2e9qNG9J8J8_R_V0tstHU",
+                "personal": "https://omkarlolageportfolio.netlify.app/",
+                "github": "https://github.com/OmkarLolage21"
+            }
+        ],
+        "other": [
+            {
+                "name": "Rugved Junghare",
+                "role": "AI/ML Coordinator",
+                "domain": "AI/ML",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Tanmay Walke",
+                "role": "AI/ML Coordinator",
+                "domain": "AI/ML",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Jay Gadre",
+                "role": "AI/ML Coordinator",
+                "domain": "AI/ML",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Aparna Nimishakavi",
+                "role": "AI/ML Coordinator",
+                "domain": "AI/ML",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Avinash Bhurke",
+                "role": "AI/ML Coordinator",
+                "domain": "AI/ML",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Harsh Bachhav",
+                "role": "AI/ML Coordinator",
+                "domain": "AI/ML",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Vikram Jirgale",
+                "role": "AI/ML Coordinator",
+                "domain": "AI/ML",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Adwait Jahagirdar",
+                "role": "AI/ML Coordinator",
+                "domain": "AI/ML",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Manas Bagul",
+                "role": "AI/ML Coordinator",
+                "domain": "AI/ML",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Ameya Borkar",
+                "role": "AI/ML Coordinator",
+                "domain": "AI/ML",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Chinmay Ingale",
+                "role": "App Development Coordinator",
+                "domain": "App Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Ritik Arora",
+                "role": "App Development Coordinator",
+                "domain": "App Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Puja Nikam",
+                "role": "App Development Coordinator",
+                "domain": "App Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Animesh Nilawar",
+                "role": "App Development Coordinator",
+                "domain": "App Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Aditya Bavadekar",
+                "role": "App Development Coordinator",
+                "domain": "App Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Aftab Naik",
+                "role": "App Development Coordinator",
+                "domain": "App Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Akshay Patil",
+                "role": "App Development Coordinator",
+                "domain": "App Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Aman Pathan",
+                "role": "App Development Coordinator",
+                "domain": "App Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Ruhaan Sande",
+                "role": "App Development Coordinator",
+                "domain": "App Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Suthar Nimbaram",
+                "role": "App Development Coordinator",
+                "domain": "App Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Yadhni Kharkar",
+                "role": "Content Coordinator",
+                "domain": "Content",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Varad Rathor",
+                "role": "Content Coordinator",
+                "domain": "Content",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Daksh Dharmani",
+                "role": "Content Coordinator",
+                "domain": "Content",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Aditi Menbudle",
+                "role": "Content Coordinator",
+                "domain": "Content",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Rishikesh Shinde",
+                "role": "Content Coordinator",
+                "domain": "Content",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Aniket Kalbhor",
+                "role": "Management Coordinator",
+                "domain": "Management",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Purvi Solanki",
+                "role": "Management Coordinator",
+                "domain": "Management",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Neel Sahasrabudhe",
+                "role": "Management Coordinator",
+                "domain": "Management",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Ajaya Nandiyawar",
+                "role": "Management Coordinator",
+                "domain": "Management",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Ansh Sharma",
+                "role": "Management Coordinator",
+                "domain": "Management",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Kartik Chavan",
+                "role": "Management Coordinator",
+                "domain": "Management",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Gadieen Khemkaar",
+                "role": "Management Coordinator",
+                "domain": "Management",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Aditya Karad",
+                "role": "Management Coordinator",
+                "domain": "Management",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Vrushali Konappagoudra",
+                "role": "Management Coordinator",
+                "domain": "Management",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Sai Jadhav",
+                "role": "Management Coordinator",
+                "domain": "Management",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Anush Nair",
+                "role": "Management Coordinator",
+                "domain": "Management",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Mayank Nikose",
+                "role": "Multimedia Coordinator",
+                "domain": "Multimedia",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Vedika Patil",
+                "role": "Multimedia Coordinator",
+                "domain": "Multimedia",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Anchit Chedge",
+                "role": "Multimedia Coordinator",
+                "domain": "Multimedia",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Ayush Gupta",
+                "role": "Multimedia Coordinator",
+                "domain": "Multimedia",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Alesha Mulla",
+                "role": "Multimedia Coordinator",
+                "domain": "Multimedia",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Parnika Thakur",
+                "role": "Multimedia Coordinator",
+                "domain": "Multimedia",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Nisarg Parmar",
+                "role": "Multimedia Coordinator",
+                "domain": "Multimedia",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Pallav Vaniya",
+                "role": "Web Development Coordinator",
+                "domain": "Web Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Vedant Chandore",
+                "role": "Web Development Coordinator",
+                "domain": "Web Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Om Baji",
+                "role": "Web Development Coordinator",
+                "domain": "Web Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Kavya Bhand",
+                "role": "Web Development Coordinator",
+                "domain": "Web Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Sidra Jahangir",
+                "role": "Web Development Coordinator",
+                "domain": "Web Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Shivani Patil",
+                "role": "Web Development Coordinator",
+                "domain": "Web Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Arnav Anand",
+                "role": "Web Development Coordinator",
+                "domain": "Web Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Ridham Anand",
+                "role": "Web Development Coordinator",
+                "domain": "Web Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Imran Kotwal",
+                "role": "Web Development Coordinator",
+                "domain": "Web Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Orison Bachute",
+                "role": "Web Development Coordinator",
+                "domain": "Web Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Vinit Shirbhate",
+                "role": "Web Development Coordinator",
+                "domain": "Web Development",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Ayush Srivastava",
+                "role": "Web3 Coordinator",
+                "domain": "Web3",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Prajwal Bhosale",
+                "role": "Web3 Coordinator",
+                "domain": "Web3",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Anushka More",
+                "role": "Web3 Coordinator",
+                "domain": "Web3",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Swanandi Bhende",
+                "role": "Web3 Coordinator",
+                "domain": "Web3",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Yash Mahajan",
+                "role": "Web3 Coordinator",
+                "domain": "Web3",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Ayush Mahajan",
+                "role": "Web3 Coordinator",
+                "domain": "Web3",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            },
+            {
+                "name": "Akshat Patil",
+                "role": "Web3 Coordinator",
+                "domain": "Web3",
+                "designation": "Coordinator",
+                "linkedin": "",
+                "image": "",
+                "personal": "",
+                "github": ""
+            }
+        ]
+    }
 }

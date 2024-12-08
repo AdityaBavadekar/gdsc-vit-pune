@@ -11,10 +11,23 @@
     max-width: 500px;
 }
 
+#lead-text-1 {
+    font-size: 115px;
+}
+
+@media screen and (max-width: 800px) {
+    #lead-text-1 {
+        font-size: 90px;
+    }
+}
+
 @media screen and (max-width: 450px) {
     #lead-text-container {
         animation: slide-color 5s infinite alternate;
         border-radius: 0;
+    }
+    #lead-text-1 {
+        font-size: 60px;
     }
 }
 

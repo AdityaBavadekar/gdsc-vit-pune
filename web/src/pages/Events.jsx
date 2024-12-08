@@ -2,6 +2,7 @@ import React from 'react';
 import './events.css';
 
 const EventCard = ({event, index}) => {
+    const displayImage = event.displayImage ? event.displayImage : event.images[0];
     return (
         <li key={event.id} className='mb-3 event-full-card'>
             <div className="container py-5 px-4">
@@ -13,17 +14,19 @@ const EventCard = ({event, index}) => {
                 
                 <div className="text-center py-2">
                     <div className="carousel-holder">
-                        <div className="carousel-wrapper">
-                            {
-                                event.images.map((image, innerIndex) => {
-                                    return (
-                                        <div key={innerIndex} className={"carousel-item justify-content-center d-flex " + (innerIndex == 0 ? "active" : "")}>
-                                            <img key={innerIndex} src={'../'+image} className='d-block w-50' />
-                                        </div>
-                                    )
-                                })
-                            }
+                        <div className={"carousel-item justify-content-center d-flex "}>
+                            <img src={'../'+displayImage} className='d-block w-50' />
                         </div>
+                        {/* {
+                            event.images.map((image, index) => {
+                                if(index === 0) return null;
+                                return (
+                                    <div className={"justify-content-center w-25"}>
+                                        <img src={'../'+image} className='d-block w-25' />
+                                    </div>
+                                )
+                            })
+                        } */}
                     </div>
                 </div>
                 <p>{
@@ -54,7 +57,7 @@ const Events = () => {
 
     return (
         <div>
-            <h1 className='text-center display-3 fw-700 lh-md py-5'>GDSC VIT Pune Events</h1>
+            <h1 className='text-center display-3 fw-800 lh-md py-5'>Events</h1>
             <ul className='events-full-container'>
                 {eventsData.map((event, index) => <EventCard event={event} index={index} key={index}/>)}
             </ul>

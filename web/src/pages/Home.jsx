@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import './home.css'
 import { Link } from 'react-router-dom';
+import ParticleExperiment1 from '../components/ParticleExperiments';
 
 const SimpleEventCard = ({ event }) => {
     return (
@@ -72,7 +73,7 @@ const Home = () => {
 
     return (
         <div>
-            <div className="py-5 px-2 vh-100 justify-content-center align-middle d-flex flex flex-column" id='lead-text-container'>
+                <div className="py-5 px-2 vh-100 justify-content-center align-middle d-flex flex flex-column" id='lead-text-container'>
                 <h1 className='display-1 fw-800 text-center w-full font-weight-bold lh-lg' id='lead-text-1'><span style={{ color: 'blue' }}>D</span><span style={{ color: 'red' }}>S</span><span style={{ color: 'orange' }}>C</span> VIT Pune</h1>
                 <h2 className='text-center lh-md fw-600 text-muted' id='lead-text-2'>Developer Student Clubs, Vishwakarma Institute of Technology, Pune</h2>
                 <div className='h-25'></div>

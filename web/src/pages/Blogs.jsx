@@ -31,7 +31,7 @@ const Blogs = () => {
     return (
         <div className='container'>
             <div className="container py-5">
-                <h1 className='text-center display-3 fw-700 lh-md py-5'>Blogs</h1>
+                <h1 className='text-center display-3 fw-800 lh-md py-5'>Blogs</h1>
                 
                 <div className="blogs-container container flex flex-row row gap-md-3 justify-content-center">
                     {

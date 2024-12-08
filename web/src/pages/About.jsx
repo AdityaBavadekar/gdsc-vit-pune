@@ -19,7 +19,7 @@ const About = () => {
                 <div className="py-5 mt-5 container w-full justify-content-center d-flex flex">
                     <img src='/members.png' alt='Workshop Picture' className='img-fluid' />
                 </div>
-                <h1 className='text-center display-3 fw-700 lh-md py-5'>About</h1>
+                <h1 className='text-center display-3 fw-800 lh-md py-5'>About</h1>
                 <p className='fs-4'>
                     Developer Student Clubs (DSC) are community groups for college and university students interested in Google developer technologies.
                 </p>

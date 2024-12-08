@@ -31,7 +31,7 @@ const Footer = () => {
                         <li className="social-media-item"><a href="https://linkedin.com/company/gdscvitpune/" className="social-media-link" target="_blank"><i class="ri-linkedin-fill" title='Linkedin'></i></a></li>
                         <li className="social-media-item"><a href="https://facebook.com/gdscvitpune" className="social-media-link" target="_blank"><i class="ri-facebook-fill" title='Facebook'></i></a></li>
                         <li className="social-media-item"><a href="https://github.com/dscvitpune" className="social-media-link" target="_blank"><i class="ri-github-fill" title='GitHub'></i></a></li>
-                        <li className="social-media-item"><a href="https://discord.com/gdscvitpune" className="social-media-link" target="_blank"><i class="ri-discord-fill" title='Discord'></i></a></li>
+                        <li className="social-media-item"><a href="http://bit.ly/dscvitpunediscord" className="social-media-link" target="_blank"><i class="ri-discord-fill" title='Discord'></i></a></li>
                         <li className="social-media-item"><a href="https://youtube.com/@gdscvitpune" className="social-media-link" target="_blank"><i class="ri-youtube-fill" title='Youtube'></i></a></li>
                         <li className="social-media-item"><a href="https://medium.com/dscvitpune" className="social-media-link" target="_blank"><i class="ri-medium-fill" title='Medium'></i></a></li>
                     </ul>
