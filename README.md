@@ -1,9 +1,33 @@
 # gdsc-vit-pune
 - View deployed site at: https://gdscvitpune.netlify.app/
-
-**Note:** This is not the official website of GDSC VIT Pune. This is a fun project created by me.
+- **Note:** This is not the official website of GDSC VIT Pune. This is a fun project created by me.
 
 ![](/web/screenshots/home.png)
+
+---
+
+## Running the Project Locally  
+
+1. **Clone the Repository**  
+   ```bash  
+   git clone https://github.com/AdityaBavadekar/gdsc-vit-pune
+   ```  
+
+2. **Navigate to the Web Directory**  
+   ```bash  
+   cd gdsc-vit-pune/web
+   ```
+
+3. **Install Dependencies**  
+   ```bash  
+   npm i
+   ```  
+
+4. **Start the local Server**  
+   ```bash  
+   npm start
+   ```  
+
 
 # Author
 - [@AdityaBavadekar](https://github.com/AdityaBavadekar)
